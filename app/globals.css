@@ -1,0 +1,32 @@
+@import "tailwindcss";
+
+:root {
+  --paper: #f6f1e7;
+  --paper-soft: #eee6d3;
+  --ink: #1d2b20;
+  --ink-soft: #5c5646;
+  --rust: #b5502d;
+  --olive: #5f6f45;
+  --mustard: #c1932f;
+  --wine: #7a3b3b;
+  --line: #d9cfb8;
+}
+
+@theme inline {
+  --color-paper: var(--paper);
+  --color-paper-soft: var(--paper-soft);
+  --color-ink: var(--ink);
+  --color-ink-soft: var(--ink-soft);
+  --color-rust: var(--rust);
+  --color-olive: var(--olive);
+  --color-mustard: var(--mustard);
+  --color-wine: var(--wine);
+  --color-line: var(--line);
+  --font-sans: var(--font-geist-sans);
+  --font-serif: var(--font-fraunces);
+}
+
+body {
+  background: var(--paper);
+  color: var(--ink);
+}
