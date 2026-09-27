@@ -15,7 +15,7 @@ type Mango = {
 
 const mangoes: Mango[] = [
   {
-    name: "愛文芒果",
+    name: "愛文芒果促銷",
     enName: "Irwin Mango",
     season: "4 – 8 月",
     desc: "台南玉井經典品種，果肉細緻多汁、香氣濃郁，是台灣芒果的代表門面。",
