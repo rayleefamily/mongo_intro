@@ -56,12 +56,12 @@ const inSeason = mangoes.slice(0, 4);
 const highlights = [
   {
     num: "01",
-    title: "晨光採收",
+    title: "晨光採收 666",
     text: "趁著露水未乾，台南玉井、屏東枋山的老欉果園，一顆顆手工摘下枝頭。",
   },
   {
     num: "02",
-    title: "靜候熟成",
+    title: "靜候熟成 777",
     text: "不催熟、不搶快，沿用老欉工法靜待果香甦醒，直到甜度綻放的那一刻。",
   },
   {
